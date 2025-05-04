@@ -1,1 +1,1 @@
-![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/BitRAT/Screenshot.png)
+![Screenshot](https://github.com/NE0WISE/rat-dump/blob/main/BitRAT%201.38/Screenshot.png)
