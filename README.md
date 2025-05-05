@@ -2,9 +2,6 @@
 <p align="center">
   <img width="128" height="128" src="https://github.com/user-attachments/assets/a0f1cf7d-2a7d-4f90-87f8-0c9958f5c9c2">
 </p>
-<p align="center">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Cryakl/Ultimate-Ransomware-Collection?color=8939A3">
-</p>
 <h1 align="center">Archive password: infected</h1>
 <p align="center">
 <p align="center">
